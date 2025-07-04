@@ -1,5 +1,5 @@
 # 「NoobGPT」
-写了个「NoobGPT」对话Bot 没有任何限制，打开就能用😁 希望能帮到家人们
+写了个「NoobGPT」对话Bot 没有任何限制，打开就能用😁 希望能帮到家人们!
 
 ## 地址
 https://lab.magiconch.com/noobgpt/
